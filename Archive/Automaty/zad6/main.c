@@ -8,6 +8,7 @@ void Delay(int iDelayTime) {
 }
 
 int main() {
+	//gittest
 	enum LedState{WAITING, LEFT, RIGHT};
 
 	enum LedState eLedState = WAITING;
